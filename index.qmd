@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME" 
+title: "Michael Mascitti" 
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -9,33 +9,31 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: instagram
-      text: Instagram
-      href: https://instagram.com
+      href: https://www.linkedin.com/in/michael-mascitti-331a131b4/
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://github.com/mikemascitti-edu
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://mikemascitti-edu.github.io/mike-mascitti-resume.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:mjm63@geneseo.edu
 
 ---
 
 
-Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data analytics, Finley enjoys spending time unicycling and playing with her pet iguana.
+Michael Mascitti majors in Biology and minors in Data Anayltics at SUNY Geneseo. When not working on data analytics, Michael enjoys spending time playing video games and playing with his pet cat.
 
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.A. in Biology | Aug 2022 - May 2026 <br>
+Minor in Data Analytics
 
 ## Experience
 
-Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+Infectious Disease Research Group | Data Analyst Intern | May 2023 - Aug 2023
+BIG Research Group | Bioinformatics Analyst | January 2022 - May 2022
 
 
